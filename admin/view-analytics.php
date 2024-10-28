@@ -41,7 +41,7 @@ if (!isset($_SERVER['HTTP_X_REQUESTED_WITH']) || $_SERVER['HTTP_X_REQUESTED_WITH
 }
 
 ?>
-Write to Mosses Ramos
+
 
 <div class="container-fluid">
     <div class="row">
