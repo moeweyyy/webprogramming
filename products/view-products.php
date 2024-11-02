@@ -59,7 +59,7 @@ if (!isset($_SERVER['HTTP_X_REQUESTED_WITH']) || $_SERVER['HTTP_X_REQUESTED_WITH
                     <div class="d-flex justify-content-between align-items-center mb-4">
                         <?php
                             require_once '../classes/product.class.php';
-                            session_start();
+                    
                             $productObj = new Product();
                         ?>
                         <div class="d-flex justify-content-center align-items-center">
